@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -26,3 +27,6 @@ Things you may want to cover:
 =======
 # RailsApp
 >>>>>>> 36fb3af3634d264e9eb766eec8e6aece31581fe7
+=======
+# RubyRails
+>>>>>>> c5c2b95... Initial commit
